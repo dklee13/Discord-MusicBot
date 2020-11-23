@@ -31,7 +31,7 @@ fs.readdir("./commands/", (err, files) => {
     client.commands.set(commandName, props);
     console.log("Loading Command: "+commandName)
   });
-});
+});NzgwMjI0MzExODc2OTExMTE2.X7r-gw.RL0yQGahmeysErpcIvODReAuPtE
 
 //Logging in to discord
-client.login(process.env.TOKEN)
+client.login(NzgwMjI0MzExODc2OTExMTE2.X7r-gw.RL0yQGahmeysErpcIvODReAuPtE)
